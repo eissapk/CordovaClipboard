@@ -1,0 +1,20 @@
+{
+  "name": "CordovaClipboard",
+  "version": "1.0.0",
+  "description": "Clipboard =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eissapk/CordovaClipboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eissapk/CordovaClipboard/issues"
+  },
+  "homepage": "https://github.com/eissapk/CordovaClipboard#readme"
+}
